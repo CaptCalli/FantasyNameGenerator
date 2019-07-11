@@ -1,0 +1,43 @@
+body {
+	background-image: url(imgs/dragon.jpg);
+	position: relative;
+}
+
+h1 {
+	width: 400px;
+	margin: 90px auto;
+	text-align: center;
+	font-family: 'Patua One', cursive;
+	color: white;
+	font-size: 3rem;
+	letter-spacing: 8px;
+}
+
+#genname {
+	font-family: 'Katibeh', cursive;
+	text-align: center;
+	font-size: 3.9rem;
+	letter-spacing: 2px;
+	color: white;
+}
+
+button {
+	display: block;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	background: rgba(38, 30, 28, 0.4);
+	color: white;
+	font-family: 'Patua One', cursive;
+	font-size: 1.5rem;
+	border: 1px solid gray;
+	border-radius: 20%;
+}
+
+button:hover {
+	border: 3px solid gray;
+}
+
+button:focus {
+	outline:0;
+}
