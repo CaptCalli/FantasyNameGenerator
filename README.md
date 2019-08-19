@@ -15,7 +15,7 @@ The current selection from which the names are randomly drafted is based on fema
 
 # Support
 
-For support, feel free to contact me on Twitter: @KernsCode 
+For support, feel free to contact me on Twitter: @_KittyKerns 
 
 # License
 
