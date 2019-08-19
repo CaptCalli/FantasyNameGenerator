@@ -5,7 +5,7 @@ Random Generation of a Fantasy Name.
 # Description
 
 The Fantasy Name Generator allows users to click the button labeled "Bring me Another" and generate a random fantasy name. 
-[Fantasy Name Generator](https://kernscode.github.io/FantasyNameGenerator/)
+[Fantasy Name Generator](https://kittykerns.github.io/FantasyNameGenerator/)
 
 # Usage
 
